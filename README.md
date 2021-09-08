@@ -2,7 +2,7 @@
 - 👀 I’m interested in eventually developing intelligent tools based off of machine learning and AI. 
 - 🌱 I’m currently learning about various machine learning algorithms using Python's Sci-kit learn, keras and tensorflow.
 - 💞️ I’m looking to collaborate on major web scraping projects and also machine learning/AI projects.
-- 📫 How to reach me contact me via mail at ekokotasamuel71@gmail.com or twitter(@itsamstix_bby).
+- 📫 How to reach me contact me via mail at ekokotasamuel71@gmail.com or twitter(@itssamstix_bby).
 
 <!---
 Samstix636/Samstix636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
