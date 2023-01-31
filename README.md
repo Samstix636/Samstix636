@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samuel E. I'm a python developer focusing on data acquisition particularly from online sources(web scraping) and delivering the data to databases(relational/non-relational) or any other sources. I am an expert in various API integrations and automations.
-- 👀 I’m interested in eventually developing intelligent tools based off of machine learning and AI using python.
-- 🌱 I’m currently learning about various machine learning algorithms using Python's Sci-kit learn, keras and tensorflow.
-- 💞️ I’m looking to collaborate on major web scraping projects and also machine learning/AI projects.
+- 👋 Hi, I’m Samuel E. I'm a python Data Engineer/software developer with extensive work experience in building data pipeline and automated systems off the various types of web sources and delivering the data to databases(relational/non-relational) or any other sources.
+- 👀 I’m interested in eventually developing intelligent tools, learning new tech and currently fascinated by blockchain tech.
+- 🌱 I’m currently learning new frameworks on python that deals on API development(Fast API/Flask) and also looking to transition into the blockchain space.
+- 💞️ I’m looking to improve my all round programming skills as a passionate self-taught developer.
 - 📫 How to reach me contact me via mail at ekokotasamuel71@gmail.com.
 
 <!---
