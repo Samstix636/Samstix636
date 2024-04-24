@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Samuel E. I'm a python Data Engineer/software developer with extensive work experience in building data pipeline and automated systems off the various types of web sources and delivering the data to databases(relational/non-relational) or any other sources.
-- Built over 50 medium to large-scale softwares for various individuals and companies.
+- 👋 Hi, I’m Samuel E. I'm a python Data Engineer/software developer with extensive work experience in building data pipelines, desktop software development, automation bots for various web platforms and APIs, cloud hosting and deployments as well as general purpose data engineering solutions.
+- Built over 50 medium to large-scale softwares for various individuals and companies. See my freelance work profile on Upwork @ https://www.upwork.com/freelancers/samuelekokota
+-  Open to full-time roles across the world(willing to relocate)
 - 📫 How to reach me contact me via mail at ekokotasamuel71@gmail.com.
 
 <!---
