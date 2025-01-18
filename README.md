@@ -2,7 +2,7 @@
 - Stack: Python, Java, Sql(postgres,mysql,sqlite) and No-Sql(mongoDB, Redis, Cassandra), Docker, Aws services(Ecs, Lambda, Ec2), google cloud console
 - Built over 50 small to medium-scale softwares for various individuals and companies. See my freelance work profile on Upwork @ https://www.upwork.com/freelancers/samuelekokota
 -  Open to full-time roles across the world(willing to relocate)
-- 📫 Contact me via mail at ekokotasamuel71@gmail.com for your betting bots, scraping systems, database and data pipeline development, 
+- 📫 Contact me via mail at ekokotasamuel71@gmail.com or telegram at https://t.me/Samstix636, for your betting bots, scraping systems, Automated database and data pipeline developments, and other website automation needs.
 
 <!---
 Samstix636/Samstix636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
